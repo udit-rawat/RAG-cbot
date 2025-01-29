@@ -1,9 +1,3 @@
-# RAG-cbot
-
-Here’s everything in **Markdown format** for easy inclusion in your `README.md` file. I’ve also added comments for the `.env` file to guide users on replacing values.
-
----
-
 # **RAG-CBot**
 
 A Retrieval-Augmented Generation (RAG) chatbot that uses a vector database for semantic search and stores chat history in a MySQL database. The chatbot is served via a Flask API.
