@@ -2,6 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that uses a vector database for semantic search and stores chat history in a MySQL database. The chatbot is served via a Flask API.
 
+![RAG-CBot](RAG-CBot.png)
+
 ---
 
 ## **Table of Contents**
